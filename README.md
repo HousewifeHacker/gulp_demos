@@ -2,5 +2,8 @@
 - npm install
 
 # Examples
-To Uglify JavaScripts, copy template to build directory, and change script tags to reference minified javascripts
-- ./node_modules/.bin/gulp uglifyJS
+To remove build directory
+- ./node_modules/.bin/gulp clean
+
+To Uglify JavaScripts with sourcemaps
+- ./node_modules/.bin/gulp minJS
