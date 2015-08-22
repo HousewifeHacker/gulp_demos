@@ -27,5 +27,11 @@
     "gulp-uglify": "~1.2.0",
     "gulp-sourcemaps": "~1.5.2",
     "del": "~1.2.1",
+    "karma": "0.12.36",
+    "gulp-karma": "0.0.4",
+    "qunitjs": "~1.18.0",
+    "karma-qunit": "~0.1.5",
+    "phantomjs": "~1.9.18",
+    "karma-phantomjs-launcher": "~0.2.1"
   }
 }
